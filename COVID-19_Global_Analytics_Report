@@ -1,0 +1,84 @@
+📑 COVID-19 Analytics Dashboard — Detailed Report
+
+📖 Project Objective
+The objective of this project was to analyze worldwide COVID-19 statistics using Power BI interactive dashboard reporting techniques. 
+The dashboard was developed to monitor global pandemic-related insights including total cases, recoveries, deaths, testing statistics and population-based analysis across multiple countries.
+
+📁 Dataset Information
+- Dataset Type: Covid Analysis Dataset
+- Source: Sample dataset provided during online analytics training sessions
+- File Format: Excel / CSV
+- Data Coverage:
+- Total Cases
+- Total Recoveries
+- Total Deaths
+- Active Cases
+- Total Tests
+- Population Statistics
+- Country-wise COVID-19 information
+
+🛠️ Technologies & Tools Used
+
+✅ Power BI
+KPI Cards
+Interactive Slicers
+Bar Chart Visualizations
+Multi-page Dashboard Design
+Comparative Country Analysis
+Interactive Reporting
+
+✅ Excel
+Dataset Handling
+Data Preparation
+Data Import Support
+
+📊 Dashboard Structure
+
+📌 Page 1 — Global Case Insights
+This dashboard page focuses on worldwide COVID-19 spread and population analysis.
+
+Features Included:
+- Total Cases KPI
+- Population Statistics
+- Country-wise Comparison Charts
+- Interactive Country Filtering
+- Visual Representation of Highly Affected Regions
+
+Analysis Purpose:
+The page helps identify countries with high COVID-19 impact and provides a general overview of global case distribution and population-related trends.
+
+📌 Page 2 — Recovery & Fatality Insights
+This dashboard page focuses on recovery performance, death analysis and covid-related pandemic impact.
+
+Features Included:
+- Recovery Statistics
+- Death Analysis
+- Testing Insights
+- Comparative Country Visualizations
+- KPI Monitoring
+
+Analysis Purpose:
+The page helps understand global recovery conditions, fatality statistics and healthcare impact across multiple countries through interactive dashboard reporting.
+
+🎯 Key Dashboard Features
+- Interactive KPI Reporting
+- Country-wise Data Exploration
+- Comparative covid Analysis
+- two-page Dashboard Navigation
+- Visual Data Interpretation
+- Slicer-based Filtering
+- Power BI Interactive Reporting
+
+📈 Skills Demonstrated
+- Power BI Dashboard Development
+- Covid Analytics Visualization
+- KPI Monitoring & Reporting
+- Interactive Dashboard Design
+- Data Interpretation
+- Visual Analytics
+- Reporting & Presentation Skills
+
+🌟 Project Outcome
+This project was helped me to strengthen my practical knowledge in Power BI dashboard development and covud analytics reporting. 
+this improves understanding of KPI visualization, dashboard structuring, interactive reporting and country-level data analysis using real-world styled healthcare datasets. 
+The project also contributed towards portfolio development and practical exposure to analytical dashboard creation using Power BI and Excel-based datasets.
