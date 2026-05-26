@@ -1,11 +1,11 @@
-📑 COVID-19 Analytics Dashboard — Detailed Report
+📑 COVID-19 Healthcare Analytics Dashboard — Detailed Report
 
 📖 Project Objective
 The objective of this project was to analyze worldwide COVID-19 statistics using Power BI interactive dashboard reporting techniques. 
 The dashboard was developed to monitor global pandemic-related insights including total cases, recoveries, deaths, testing statistics and population-based analysis across multiple countries.
 
 📁 Dataset Information
-- Dataset Type: Covid Analysis Dataset
+- Dataset Type: Covid Healthcare Analysis Dataset
 - Source: Sample dataset provided during online analytics training sessions
 - File Format: Excel / CSV
 - Data Coverage:
