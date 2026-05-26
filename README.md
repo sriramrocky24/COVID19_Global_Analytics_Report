@@ -1,4 +1,4 @@
-# 🌍 COVID-19 Global Analytics: Brief Report
+# 🦠 COVID-19 Global Analytics: Brief Report
 
 # 📖 Project Overview
 Developed a Power BI healthcare analytics dashboard to analyze worldwide COVID-19 statistics across multiple countries using interactive visualizations and KPI reporting.
